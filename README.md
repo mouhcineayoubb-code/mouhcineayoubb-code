@@ -21,7 +21,6 @@ I believe that technical excellence is inseparable from security. My development
 **Tools, Infrastructure & Security:**
 <br>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
@@ -33,7 +32,7 @@ I believe that technical excellence is inseparable from security. My development
 - Building high-performance 3D simulations (Unity 6 / C#).
 
 ### 🔗 Let's Connect
-- [LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio/CV](YOUR_CV_URL)
+- [LinkedIn](https://www.linkedin.com/in/mouhcine-ayoub-954488229/) 
 
 ---
 *Open to discussing complex system design, cybersecurity strategy, and digital service innovation.*
