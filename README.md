@@ -36,4 +36,6 @@ I believe that technical excellence is inseparable from security. My development
 
 ---
 *Feel free to reach out if you want to collaborate on projects or just chat about tech!.*
+
+---
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=mouhcineayoubb-code)
