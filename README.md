@@ -35,4 +35,5 @@ I believe that technical excellence is inseparable from security. My development
 - [LinkedIn](https://www.linkedin.com/in/mouhcine-ayoub-954488229/) 
 
 ---
-*Open to discussing complex system design, cybersecurity strategy, and digital service innovation.*
+*Feel free to reach out if you want to collaborate on projects or just chat about tech!.*
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=mouhcineayoubb-code)
