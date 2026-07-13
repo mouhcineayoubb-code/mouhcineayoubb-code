@@ -2,20 +2,20 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=800&color=2EA6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;INPT+%7C+Advanced+Software+Engineering;Building+Gale-Shapley+%26+beyond;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=800&color=2EA6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;INPT+%7C+Advanced+Software+Engineering;AI+Builder;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </a>
 
-# Mouhcine Ayoub
+# Ayoub Mouhcine
 
 ### 🎓 2nd-cycle Engineering Student @ **INPT Rabat** — Advanced Software Engineering for Digital Services (ASEDS)
 
 <p>
-  <a href="[LIEN_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[TON_EMAIL]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/[TON_USERNAME_GITHUB]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mouhcine-ayoub-954488229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mouhcineayoubb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mouhcineayoubb-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=[TON_USERNAME_GITHUB]&label=Profile%20Views&color=2EA6FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=mouhcineayoubb-code&label=Profile%20Views&color=2EA6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -80,34 +80,27 @@ Actuellement en recherche active d'un **stage technique (2–3 mois), profil ful
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <br/><br/>
-      <a href="[LIEN_REPO_MINIPROJ]"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/chaimaeyakouti/PFA_Affectation_projets_AI"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%">
-      <h3>🏛️ Maroc Héritage</h3>
-      <p>Application mobile React Native/Expo mettant en valeur le patrimoine culturel marocain à travers 7 villes, avec backend Node.js/Express/MySQL.</p>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <h3>🥪 Sandwich Game</h3>
+      <p>Jeu web interactif développé en frontend pur, axé sur la logique de jeu et l'expérience utilisateur.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <br/><br/>
-      <a href="[LIEN_REPO_MAROC_HERITAGE]"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/mouhcineayoubb-code/Projet-de-jeux-Sandwich"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🗺️ Chronos Maroc v2</h3>
-      <p>Plateforme immersive de voyage temporel avec carte SVG interactive, moteur de réservation temporel et animations glitch en CSS.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <br/><br/>
-      <a href="[LIEN_REPO_CHRONOS]"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%">
+    <td colspan="2">
       <h3>🏃 RunTogether</h3>
       <p>Plateforme de course géolocalisée connectant des coureurs en temps réel.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <br/><br/>
-      <a href="[LIEN_REPO_RUNTOGETHER]"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/mouhcineayoubb-code/RunTogether"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -117,16 +110,16 @@ Actuellement en recherche active d'un **stage technique (2–3 mois), profil ful
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TON_USERNAME_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TON_USERNAME_GITHUB]&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mouhcineayoubb-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouhcineayoubb-code&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_USERNAME_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhcineayoubb-code&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[TON_USERNAME_GITHUB]&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouhcineayoubb-code&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
