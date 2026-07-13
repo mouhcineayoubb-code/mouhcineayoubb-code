@@ -21,6 +21,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouhcineayoubb-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouhcineayoubb-code&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhcineayoubb-code&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+---
+
 ## 👋 À propos
 
 Étudiant ingénieur en **1ère année cycle ingénieur** à l'INPT Rabat, spécialisation *Advanced Software Engineering for Digital Services*. Je conçois des applications full-stack de bout en bout — de la modélisation UML jusqu'au déploiement — avec un intérêt particulier pour l'algorithmique et l'optimisation combinatoire.
@@ -93,7 +106,7 @@ Actuellement en recherche active d'un **stage technique (2–3 mois), profil ful
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
       <h3>🏃 RunTogether</h3>
       <p>Plateforme de course géolocalisée connectant des coureurs en temps réel.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -102,25 +115,15 @@ Actuellement en recherche active d'un **stage technique (2–3 mois), profil ful
       <br/><br/>
       <a href="https://github.com/mouhcineayoubb-code/RunTogether"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
+    <td width="50%">
+      <h3>🏛️ Maroc Héritage</h3>
+      <p>Application mobile mettant en valeur le patrimoine culturel marocain à travers 7 villes, avec backend Node.js/Express/MySQL.</p>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouhcineayoubb-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouhcineayoubb-code&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhcineayoubb-code&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouhcineayoubb-code&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
 
 ---
 
