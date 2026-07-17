@@ -79,6 +79,12 @@ Actuellement en recherche active d'un **stage technique (2–3 mois), profil ful
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mouhcineayoubb-code/mouhcineayoubb-code/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+</div>
+
 ---
 
 ## 🚀 Projets phares
@@ -96,13 +102,12 @@ Actuellement en recherche active d'un **stage technique (2–3 mois), profil ful
       <a href="https://github.com/chaimaeyakouti/PFA_Affectation_projets_AI"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%">
-      <h3>🥪 Sandwich Game</h3>
-      <p>Jeu web interactif développé en frontend pur, axé sur la logique de jeu et l'expérience utilisateur.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <h3>🅿️ Smart Parking</h3>
+      <p>Application desktop de gestion intelligente de parking, avec interface graphique en JavaFX.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaFX-orange?style=flat-square&logo=java&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/mouhcineayoubb-code/Projet-de-jeux-Sandwich"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/mouhcineayoubb-code"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -112,6 +117,8 @@ Actuellement en recherche active d'un **stage technique (2–3 mois), profil ful
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <br/><br/>
       <a href="https://github.com/mouhcineayoubb-code/RunTogether"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
