@@ -136,7 +136,7 @@ Actuellement en recherche active d'un **stage technique (2–3 mois), profil ful
 - 🎓 Étudiant à **INPT Rabat** — Advanced Software Engineering for Digital Services
 - 🧠 Approfondissement en algorithmique & optimisation (métaheuristiques, Gale-Shapley)
 - 🌱 En apprentissage : architecture logicielle, systèmes distribués, DevOps
-- 👀 Ouvert à des **opportunités de stage** (full-stack, 2–3 mois, Rabat)
+- 👀 Ouvert à des **opportunités de stage** (full-stack,AI engineer , 2–3 mois, Rabat)
 - ⚡ Fun fact : j'ai résolu et défendu MiniProj-AI en équipe avec Chaimaa Yakouti, sous la supervision de M. Hatim Hafiddi
 
 ---
