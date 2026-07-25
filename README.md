@@ -35,7 +35,7 @@
 
 ## 👋 À propos
 
-Étudiant ingénieur en **1ère année cycle ingénieur** à l'INPT Rabat, spécialisation *Advanced Software Engineering for Digital Services*. Je conçois des applications full-stack de bout en bout — de la modélisation UML jusqu'au déploiement — avec un intérêt particulier pour l'algorithmique et l'optimisation combinatoire.
+Étudiant ingénieur en **2ère année cycle ingénieur** à l'INPT Rabat, spécialisation *Advanced Software Engineering for Digital Services*. Je conçois des applications full-stack de bout en bout — de la modélisation UML jusqu'au déploiement — avec un intérêt particulier pour l'algorithmique et l'optimisation combinatoire.
 
 Récemment, j'ai conçu et développé **MiniProj-AI**, une plateforme web d'affectation intelligente de mini-projets basée sur l'algorithme de **Gale-Shapley**, du design (Figma, CDC, UML) jusqu'au rapport final et à la soutenance.
 
