@@ -83,7 +83,7 @@ Actuellement en recherche active d'un **stage technique (2–3 mois), profil ful
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Projets Phares
 
 <table>
   <tr>
