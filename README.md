@@ -15,7 +15,7 @@
   <a href="https://github.com/mouhcineayoubb-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mouhcineayoubb-code&label=Profile%20Views&color=2EA6FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mouhcineayoubb-code&theme=tokyonight&hide_border=true&v=2" height="165" />
 
 </div>
 
