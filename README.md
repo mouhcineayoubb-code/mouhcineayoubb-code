@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=800&color=2EA6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;INPT+%7C+Advanced+Software+Engineering;AI+Builder;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=800&color=2EA6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;INPT+%7C+Advanced+Software+Engineering;AI/ML+Engineer;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </a>
 
 # Ayoub Mouhcine
