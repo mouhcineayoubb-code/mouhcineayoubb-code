@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mouhcineayoubb-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouhcineayoubb-code&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats-olive.vercel.app/?user=mouhcineayoubb-code&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <br/>
