@@ -1,0 +1,29 @@
+﻿name: Daily Auto Commit
+
+on:
+  schedule:
+    - cron: '30 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update timestamp file
+        run: |
+          mkdir -p .github/auto
+          echo "Last auto-update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .github/auto/last-update.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/auto/last-update.txt
+          git diff --staged --quiet || git commit -m "chore: daily auto-update $(date -u '+%Y-%m-%d')"
+          git push
