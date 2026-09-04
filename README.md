@@ -42,7 +42,7 @@
 
 Récemment, j'ai conçu et développé **MiniProj-AI**, une plateforme web d'affectation intelligente de mini-projets basée sur l'algorithme de **Gale-Shapley**, du design (Figma, CDC, UML) jusqu'au rapport final et à la soutenance.
 
-Actuellement en recherche active d'un **stage technique (2–3 mois), profil full-stack/data science / AI/ML engineer**, principalement sur Rabat.
+Actuellement en recherche active d'un **stage technique (2–3 mois), profil full-stack/data science / AI/ML engineer/data science **, principalement sur Rabat.
 
 ---
 
